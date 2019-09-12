@@ -15,4 +15,4 @@ Index
 [Use-cases](Ontwikkelstappen/UseCases)
 
 ***
-[Terug naar index](/)
+[Terug naar index]({{ site.baseurl }})
