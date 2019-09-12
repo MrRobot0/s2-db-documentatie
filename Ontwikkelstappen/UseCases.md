@@ -17,5 +17,5 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 
 
 ***
-[Terug naar index](/README)
+[Terug naar index](/)
 
