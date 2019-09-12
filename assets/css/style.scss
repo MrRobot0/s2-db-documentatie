@@ -1,0 +1,15 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+figcaption {
+    color: #444;
+    font-style: italic;
+    font-size: smaller;
+    text-align: center;
+}
+
+a.homelink {
+    text-decoration: none;
+}
