@@ -15,4 +15,4 @@ Index
 [Use-cases](Ontwikkelstappen/UseCases)
 
 ***
-[Terug naar index](/README)
+[Terug naar index](/)
