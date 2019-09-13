@@ -8,7 +8,7 @@ reageert wanneer de gegevens onjuist zijn (de uitzonderingen). Aangezien het geb
 het systeem al gemodelleerd is in de use cases, zullen test cases altijd aan use cases gekoppeld worden. Zie figuur 1 voor een voorbeeld.
 
 <figure>
-    <img src="{{site.url}}/{{site.baseurl}/img/tests.png" alt="Figuur 1: Voorbeeld van een testplan.">
+    <img src="{{site.url}}/{{site.baseurl}}/img/tests.png" alt="Figuur 1: Voorbeeld van een testplan.">
     <figcaption>Figuur 1: Voorbeeld van een testplan</figcaption>
 </figure>
 
