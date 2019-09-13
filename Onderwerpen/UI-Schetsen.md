@@ -5,7 +5,7 @@ Het schetsen van de user interface biedt inzicht in hoe bepaalde aspecten van de
 kunnen werken. Iedere knop of element op het scherm biedt de mogelijkheid tot  gebruikersinteractie. Dit is ook het punt waarop de haalbaarheid van bepaalde requirements bepaald kan worden. Mogelijk blijkt een requirement bijvoorbeeld complexer dan verwacht en dient deze opgesplitst te worden in meerdere stappen. Zie figuur 1 voor een voorbeeld.
 
 <figure>
-    <img src="{{site.url}}/{{ site.baseurl }}/img/ui-schets.png" alt="Figuur 1: Voorbeeld van een UI-schtets op een whiteboard">
+    <img src="{{site.url}}/{{ site.baseurl }}/img/ui-schets.jpg" alt="Figuur 1: Voorbeeld van een UI-schtets op een whiteboard">
     <figcaption>Figuur 1: Een voorbeeld van een UI-schets op een whiteboard</figcaption>
 </figure>
 

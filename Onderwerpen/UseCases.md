@@ -35,7 +35,7 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 Als je meerdere use-cases hebt, kan het zinvol zijn deze in een diagram weer te geven (zie Figuur 1). Hiermee kan goed worden getoond welke use-cases bij welke actoren horen. De waarde van zo'n diagram is beperkt, maar kan in sommige gevallen een aardig overzicht geven. Het is in geen geval een vervanging van de Use-Case Beschrijvingen. 
 
 <figure>
-    <img src="{{site.url}}/{{ site.baseurl }}/img/Use Case Diagram.png" alt="Figuur 1: Voorbeeld van een Use Case diagram">
+    <img src="{{site.url}}/{{site.baseurl}}/Use Case Diagram.png" alt="Figuur 1: Voorbeeld van een Use Case diagram">
     <figcaption>Figuur 1: Voorbeeld van een Use Case diagram</figcaption>
 </figure>
 
