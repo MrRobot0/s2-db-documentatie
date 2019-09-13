@@ -19,9 +19,13 @@ Het geschetste plaatje biedt echter een mooie kapstok om de activiteiten die per
 worden van een toelichting te voorzien. Het uiteindelijke doel van dit document is het toelichten van de visie op het softwareontwikkelproces. Hierbij wordt context gegeven aan de hand van voorbeelden; deze voorbeelden zijn niet de enig mogelijke of correcte manier om dit te doen: deze dienen puur als beeldvorming.
 
 ### Inhoudsopgave
-[Use-cases](UseCases)
+1. [Projectmethodiek](Onderwerpen\Methodiek)
+2. Activiteiten
+   * [Use-cases](Onderwerpen\UseCases)
+   * 
 
-***
-[Terug naar index]({{ site.baseurl }}/index)
+
+
+
 
 

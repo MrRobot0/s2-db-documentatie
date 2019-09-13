@@ -15,6 +15,4 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 |*Actors*|Verkoper, Leidinggevende|
 |*Aannamen*|Geen|
 
-***
-[Terug naar index](index)
 
