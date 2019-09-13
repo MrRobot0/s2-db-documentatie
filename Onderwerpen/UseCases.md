@@ -7,7 +7,7 @@ In de tabel hieronder is een voorbeeld te zien van een uitgewerkte use case, ove
 
 Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een uitzondering genummerd bij aangemerkt. In dit voorbeeld is per uitzondering aangegeven welke beperking ondervangen wordt; ook de use case zelf is voorzien van een identificatie.
 
-#####Requirements
+###Requirements
 
     FR-01 De gebruiker moet een overzicht van alle verkopen kunnen inzien.
         B-01.1 Overzichten van verkopen zijn op maanden, kwartalen of jaren.
@@ -19,7 +19,7 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
         anders is deze altijd het moment van invoeren.
         FR-03 Het is mogelijk om geld terug te geven aan klanten (voor het ruilen van artikelen).
 
-#####Use-case beschrijving
+###Use-case beschrijving
 
 |*Naam*|UC01: Nieuwe verkoop toevoegen|
 |----|------------------------|
@@ -30,7 +30,7 @@ Mocht er bij bepaalde stappen een probleem op kunnen treden, dan wordt hier een 
 |*Uitzonderingen*|<ol><li>Niet alle benodigde gegevens zijn ingevuld. Toon een melding en ga terug naar stap 3. (B-02.2)</li><li>De verkoopdatum is aangepast en de actor is geen leidinggevende. Zet de datum op de huidige datum en tijd en ga verder met de use case. (B-02.3)</li></ol>|
 |*Resultaat*|Er is een nieuwe verkoop toegevoegd aan het systeem.|
 
-#####Use-case diagrammen
+###Use-case diagrammen
 
 Als je meerdere use-cases hebt, kan het zinvol zijn deze in een diagram weer te geven (zie Figuur 1). Hiermee kan goed worden getoond welke use-cases bij welke actoren horen. De waarde van zo'n diagram is beperkt, maar kan in sommige gevallen een aardig overzicht geven. Het is in geen geval een vervanging van de Use-Case Beschrijvingen. 
 
@@ -41,7 +41,7 @@ Als je meerdere use-cases hebt, kan het zinvol zijn deze in een diagram weer te 
 
 In het diagram zie je drie actoren (twee rollen en een extern systeem) en een viertal use-cases. In principe wordt er geen volgordelijkheid aangegeven in een use-case diagram.
 
-######Bronnen
+###Bronnen
 Om meer over use-cases te weten te komen kun je de volgende bronnen raadplegen:
 
 * De oefening [Use Cases opstellen in Canvas](https://fhict.instructure.com/courses/8648/assignments/129651)

@@ -13,3 +13,7 @@ Het belangrijkste doel van software analyse is helder krijgen welke functionalit
 ## Analysedocumnentatie
 
 De resultaten van de hierbovenstaande activiteiten kun je op een aantal manieren vastleggen. Afhankelijk van de [projectmethode](Methodiek) die je volgt gebeurt dat meer of minder formeel.
+
+## Wanneer is de analyse klaar?
+
+Elke iteratie zul je de analyse gaan uitvoeren voor de features die in die iteratie worden opgepakt of misschien zelfs al wel een beetje vooruitwerken in de volgende iteratie. In dat opzicht zul je nooit helemaal klaar zijn. Als je echter voor elke feature die je wil gaan bouwen minimaal een UI-schets hebt en een use-case met test-cases óf een user story met acceptatiecriteria hebt, ben je een heel eind op weg.
