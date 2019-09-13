@@ -20,7 +20,7 @@ Hoewel deze methodiek een nette scheiding van de verschillende activiteiten belo
 Om de grote problemen van een waterval-project aan te pakken werd er gekeken naar andere aanpakken. Het [RUP](https://nl.wikipedia.org/wiki/Rational_Unified_Process)-proces is een voorbeeld van een proces waarin een incrementele aanpak wordt voorgesteld. Er wordt nog wel een grote nadruk gelegd op documentatie, en er wordt gefaseerd gewerkt, maar het cyclishe karakter van een RUP-project geeft al wel meer mogelijkheden om tijdens het project bij te sturen.
 
 <figure>
-    <img src="{{site.url}}/{{site.baseurl}/img/Development-iterative.png" alt="Figuur 1: Iteratief ontwikkelen in RUP">
+    <img src="{{site.url}}/{{site.baseurl}}/img/Development-iterative.png" alt="Figuur 1: Iteratief ontwikkelen in RUP">
     <figcaption>Figuur 1: Iteratief ontwikkelen in RUP</figcaption>
 </figure>
 
