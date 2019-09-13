@@ -25,7 +25,7 @@ waarvoor geen requirement is. In het eerste geval ontbreekt er iets in een UI sc
 Figuur 2 toont de matrix die aansluit bij de voorbeelden die in dit document zijn opgevoerd. Wat hieruit duidelijk wordt is dat requirement FR-01 in zijn volledigheid nog niet getest wordt. Dit impliceert dat er nog geen test cases zijn opgesteld hiervoor. Maar, er is ook nog geen use case voor beschikbaar: dit zal dus eerst uitgewerkt moeten worden. Wanneer dit gedaan is, kunnen tests worden opgesteld en wordt de matrix bijgewerkt.
 
 <figure>
-    <img src="{{site.url}}/{{site.baseurl}/img/matrix.png" alt="Figuur 2: Voorbeeld van een testmatrix.">
+    <img src="{{site.url}}/{{site.baseurl}}/img/matrix.png" alt="Figuur 2: Voorbeeld van een testmatrix.">
     <figcaption>Figuur 2: Voorbeeld van een testmatrix.</figcaption>
 </figure>
 
