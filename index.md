@@ -10,10 +10,8 @@ In figuur 1 is het traditionele watervalmodel te zien wat ook vandaag de dag nog
 Merk op dat deze cyclus vaak meermaals doorlopen wordt: het is geen vereiste om voor de gehele applicatie een complete analyse en ontwerp op te stellen alvorens er begonnen wordt met de implementatie. Doorgaans wordt een applicatie opgedeeld in meerdere iteraties, waarbij per iteratie grofweg dit traject doorlopen wordt.
 
 <figure>
-
-![Figuur 1: Verschillende activiteiten in softwareontwikkeling: Analyse, Ontwerp, Implementatie, Testen, Onderhoud][fases]
-
-<figcaption>Figuur 1: Verschillende activiteiten in softwareontwikkeling: Analyse, Ontwerp, Implementatie, Testen, Onderhoud</figcaption>
+    <img src="img/activiteiten.png" alt="Figuur 1: Verschillende activiteiten in softwareontwikkeling: Analyse, Ontwerp, Implementatie, Testen, Onderhoud">
+    <figcaption>Figuur 1: Verschillende activiteiten in softwareontwikkeling: Analyse, Ontwerp, Implementatie, Testen, Onderhoud</figcaption>
 </figure>
 
 In de werkelijkheid zijn procesmodellen doorgaans niet zo simplistisch als hier weergegeven.
