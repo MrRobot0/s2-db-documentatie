@@ -24,4 +24,4 @@ worden van een toelichting te voorzien. Het uiteindelijke doel van dit document 
 ***
 [Terug naar index]({{ site.baseurl }}/index)
 
-<a style="display: span; float: right" href="http://creativecommons.org/licenses/by/4.0/"><img src="img/by.png" width="100" alt="Creative Commons By Attribution" target="_new"></a>
+
