@@ -18,11 +18,10 @@ In de werkelijkheid zijn procesmodellen doorgaans niet zo simplistisch als hier 
 Het geschetste plaatje biedt echter een mooie kapstok om de activiteiten die per fase gedaan
 worden van een toelichting te voorzien. Het uiteindelijke doel van dit document is het toelichten van de visie op het softwareontwikkelproces. Hierbij wordt context gegeven aan de hand van voorbeelden; deze voorbeelden zijn niet de enig mogelijke of correcte manier om dit te doen: deze dienen puur als beeldvorming.
 
-Inhoudsopgave
-=====
+### Inhoudsopgave
 [Use-cases](UseCases)
 
 ***
-[Terug naar index](index)
+[Terug naar index]({{ site.baseurl }}/index)
 
-[fases]: img/activiteiten.png "Verschillende activiteiten in softwareontwikkeling: Analyse, Ontwerp, Implementatie, Testen, Onderhoud"
+<a style="display: span; float: right" href="http://creativecommons.org/licenses/by/4.0/"><img src="img/by.png" width="100" alt="Creative Commons By Attribution" target="_new"></a>
