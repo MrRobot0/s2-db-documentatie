@@ -46,7 +46,7 @@ Wat niet getoond is in dit overzicht, is de prioritering van de requirements. Ni
 
 1. MoSCoW
 
-Een eenvoudige methode om te prioriteren is de MoSCow-techniek: Must (dit moet er zeker in), Should (zit zou er toch eigenlijk wel in moeten zitten), Could (dit is een optie) of Won’t (dit gaan we zeker niet doen).
+Een eenvoudige methode om te prioriteren is de MoSCow-techniek: Must (dit moet er zeker in), Should (dit zou er toch eigenlijk wel in moeten zitten), Could (dit is een optie) of Won’t (dit gaan we zeker niet doen).
 
 Welke functionaliteit aan welke requirement wordt gekoppeld is iets wat in overleg met de opdrachtgever bepaald wordt. Per iteratie of oplevering kan deze prioritering herzien worden.
 Het getoonde overzicht is al aardig uitgewerkt, maar het is prima mogelijk dat de eerste versie
